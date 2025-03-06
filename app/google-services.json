@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "258141687845",
-    "project_id": "agenda-app---jc-ded6d",
-    "storage_bucket": "agenda-app---jc-ded6d.firebasestorage.app"
+    "project_number": "320440512511",
+    "project_id": "agenda-app---jc-f84a1",
+    "storage_bucket": "agenda-app---jc-f84a1.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:258141687845:android:b1be415cee7582fcf1afcc",
+        "mobilesdk_app_id": "1:320440512511:android:1e561de41dd888a925c1ca",
         "android_client_info": {
           "package_name": "com.tesji.agendaapp_kotlin_jc"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAf8MTvXfVkPSYEA-YiP3RzFFhCufZyDF8"
+          "current_key": "AIzaSyCxCfp_p7ppTOUEdU3nLbAtajAllvqPR9A"
         }
       ],
       "services": {
